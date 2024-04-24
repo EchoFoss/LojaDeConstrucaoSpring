@@ -1,4 +1,4 @@
 package com.faculdade.domain;
 
-public abstract class Identifier implements ValueObject {
+public abstract class Identifier extends ValueObject {
 }

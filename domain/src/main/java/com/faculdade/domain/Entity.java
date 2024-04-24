@@ -30,4 +30,5 @@ public abstract class Entity<ID extends Identifier> {
     public int hashCode() {
         return Objects.hashCode(id);
     }
+
 }

@@ -1,4 +1,4 @@
 package com.faculdade.domain;
 
-public interface ValueObject {
+public abstract class ValueObject {
 }
